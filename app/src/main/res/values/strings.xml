@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="personInput">Add person</string>
+  <string name="personDetail">Update person</string>
+  <string name="peopleList">People</string>
+  <string name="firstName">Firstname</string>
+  <string name="lastName">Lastname</string>
+  <string name="email">Email address</string>
+  <string name="phone">Phone number</string>
+  <string name="errorCharMin">2</string>
+  <string name="errorCharMax">16</string>
+  <string name="errorFirstNameTooShort">Firstname is too short</string>
+  <string name="errorFirstNameTooLong">Firstname is too long</string>
+  <string name="errorLastNameTooShort">Lastname is too short</string>
+  <string name="errorLastNameTooLong">Lastname is too long</string>
+  <string name="errorEmail">Email Address is invalid</string>
+  <string name="errorPhone">Phone number is invalid</string>
+  <string name="send">Send</string>
+  <string name="save">Save</string>
+  <string name="back">Back</string>
+  <string name="undoDeletePerson">Do you want to undo the persons deletion?</string>
+  <string name="undoAnswer">Yes</string>
+  <string name="permissionRequired">Permission required</string>
+  <string name="permissionCamera">The app requires access to the camera to take a photo.</string>
+  <string name="permissionAudio">"The app needs access to your microphone, to transmit youre voice. "</string>
+  <string name="permissionExternalStorage">The app requires access to the external storage to read or write a photo or video.</string>
+  <string name="permissionCoarseLocation">The app requires access to coarse geolocation to determine your position.</string>
+  <string name="permissionFineLocation">The app requires access to fine geolocation to determine its position.</string>
+  <string name="declinedCamera">Unfortunately you have permanently denied camera sharing. You can now only grant permission via app settings.</string>
+  <string name="declinedAudio">Unfortunately you have permanently denied microphone sharing. You can now only grant permission via app settings.</string>
+  <string name="declinedExternalStorage">Unfortunately you have permanently denied access to external storage. You can now only grant permission via app settings.</string>
+  <string name="declinedCoarseLocation">Unfortunately, you have permanently denied access to coarse location sharing. You can now only grant permission via the app settings.</string>
+  <string name="declinedFineLocation">Unfortunately, you have permanently denied access to fine location sharing. You can now only grant permission via the app settings.</string>
+  <string name="refuse">Refuse</string>
+  <string name="agree">Agree</string>
+  <string name="selectPhotoFromGallery">Please select a photo</string>
+  <string name="takePhotoWithCamera">Please take a photo</string>
+  <string name="app_name">RetrofitPeople</string>
+</resources>

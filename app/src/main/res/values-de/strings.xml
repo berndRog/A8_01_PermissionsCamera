@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="personInput">Person hinzufügen</string>
+  <string name="personDetail">Person bearbeiten</string>
+  <string name="peopleList">Personen</string>
+  <string name="firstName">Vorname</string>
+  <string name="lastName">Nachname</string>
+  <string name="email">E-Mail Adresse</string>
+  <string name="phone">Telefonnummer</string>
+  <string name="errorCharMin">2</string>
+  <string name="errorCharMax">16</string>
+  <string name="errorFirstNameTooShort">Vorname ist zu kurz</string>
+  <string name="errorFirstNameTooLong">Vorname ist zu lang</string>
+  <string name="errorLastNameTooShort">Nachname ist zu kurz</string>
+  <string name="errorLastNameTooLong">Nachname ist zu lang</string>
+  <string name="errorEmail">E-Mail Adresse ist ungültig</string>
+  <string name="errorPhone">Telefonnummer ist ungültig</string>
+  <string name="send">Senden</string>
+  <string name="save">Speichern</string>
+  <string name="back">Zurück</string>
+  <string name="undoDeletePerson">Soll das Löschen der Person rückgäging gemacht werden?</string>
+  <string name="undoAnswer">Ja</string>
+  <string name="permissionRequired">Berechtigung erforderlich</string>
+  <string name="permissionCamera">Diese App erfordert den Zugriff auf die Kamera, um ein Foto aufzunehmen.</string>
+  <string name="permissionAudio">Diese App benötigt Zugriff auf Ihr Mikrofon, um Ihre Stimme zu übertragen.</string>
+  <string name="permissionExternalStorage">Diese App erfordert den Zugriff auf den externen Speicher, um ein Foto oder Video zu lesen oder zu speichern.</string>
+  <string name="permissionFineLocation">Die App erfordert den Zugriff auf die genaue Ortsbestimmung, um ihre Position zu ermitteln.</string>
+  <string name="permissionCoarseLocation">Die App erfordert den Zugriff auf die ungefähre Ortsbestimmung, um ihre Position zu ermitteln.</string>
+  <string name="declinedCamera">Leider haben Sie die Kamera Freigabe dauerhaft verweigert. Sie können die Erlaubnis jetzt nur noch über App-Einstellungen gewähren.</string>
+  <string name="declinedAudio">Leider haben Sie die Mikrofon Freigabe dauerhaft verweigert. Sie können die Erlaubnis jetzt nur noch über App-Einstellungen gewähren.</string>
+  <string name="declinedExternalStorage">Leider haben Sie den Zugriff auf den externen Speicher dauerhaft verweigert. Sie können die Erlaubnis jetzt nur noch über App-Einstellungen gewähren.</string>
+  <string name="declinedCoarseLocation">Leider haben Sie den Zugriff auf die ungefähre Standortfreigabe dauerhaft verweigert. Sie können die Berechtigung jetzt nur noch über die App-Einstellungen erteilen.</string>
+  <string name="declinedFineLocation">Leider haben Sie den Zugriff auf die grobe Standortfreigabe dauerhaft verweigert. Sie können die Berechtigung jetzt nur noch über die App-Einstellungen erteilen.</string>
+  <string name="refuse">Ablehnen</string>
+  <string name="agree">Gewähren</string>
+  <string name="selectPhotoFromGallery">Bitte wählen Sie ein Foto aus</string>
+  <string name="takePhotoWithCamera">Bitte nehmen Sie ein Foto auf</string>
+  <string name="app_name">RetrofitPeople</string>
+</resources>
